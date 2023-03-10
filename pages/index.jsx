@@ -101,7 +101,7 @@ const Home = () => {
   return (
     <div className="flex justify-center ms:px-4 p-12">
       <Head>
-        <title>NFTGalaxy</title>
+        <title>NFTGalaxy MarketPlace</title>
       </Head>
 
       <div className="w-full minmd:w-4/5">
